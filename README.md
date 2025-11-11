@@ -28,6 +28,7 @@ git clone <repository_url>
 pip install selenium pandas matplotlib
 ```
 3. Download Chrome WebDriver matching your Chrome version and add it to your system PATH.
+
 4. Run the script:
 ```bash
 python bookstore_scraper.py
